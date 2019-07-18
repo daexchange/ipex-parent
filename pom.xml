@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>ai.turbochain.ipex</groupId>
 	<artifactId>ipex-parent</artifactId>
-	<version>1.0.3</version>
+	<version>1.0.5</version>
 	<packaging>pom</packaging>
     <description>数字货币交易系统父节点</description>
     <url>http://ipex.openserver.cn/#/</url>
